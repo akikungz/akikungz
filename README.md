@@ -26,3 +26,4 @@ My Spotify Recently Played
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9gtk8jgjz9f8m0o6ecewcgnuc&width=1000)
 
 -----
+VS Code Setup - https://vscode.dev/profile/github/dd5e3e998f843db6c02933081d888e02
