@@ -7,8 +7,8 @@ Faculty : Faculty of Industrial Technology and Management - [FITM](https://www.f
 
 University : King Mongkut's University of Technology North Bangkok - [KMUTNB](https://www.kmutnb.ac.th/)
 
-## My Github Stats
 <!--
+## My Github Stats
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 1em">
     <a href="https://gh-stats-gen.vercel.app/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=akikungz&theme=dracula&show_icons=true&hide_border=true&count_private=true" style="max-width: 397px; width: 100%;" />
