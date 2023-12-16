@@ -19,6 +19,9 @@ University : King Mongkut's University of Technology North Bangkok - [KMUTNB](ht
 </div>
 -->
 
+## Wakatime
+[![wakatime](https://wakatime.com/badge/user/018b7618-ce87-4440-a964-8462b529da75.svg)](https://wakatime.com/@018b7618-ce87-4440-a964-8462b529da75)
+
 ## My Language and Tools
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
