@@ -1,6 +1,6 @@
-# Profile
-
 [![Saiba twins fanart](images/103424174_p0.png "")](https://www.pixiv.net/en/artworks/103424174)
+
+# Profile
 
 - Name: Thitipong Tapianthong ([akikungz](https://github.com/akikungz))
 - Major: Information and Network Engineering (INE) - Engineering Bachelor's Degree
