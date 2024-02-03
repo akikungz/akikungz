@@ -38,7 +38,7 @@
 ## My SNS List
 
 |Social Network|Email|
-|:---:|:---:|
+|:---:|---|
 |Facebook [@akikungz](https://facebook.com/akikungz)|akikungz@proton.me|
 |Twitter [@akikungz](https://twitter.com/akikungz)|akikungz@outlook.com|
 |Instagram [@akikungz](https://instagram.com/akikungz)|thitipong.t@email.kmutnb.ac.th|
