@@ -3,9 +3,7 @@
 # Profile
 
 - Name: Thitipong Tapianthong ([akikungz](https://github.com/akikungz))
-- Major: Information and Network Engineering (INE) - Engineering Bachelor's Degree
-  - Status: Studying (2022 - Now)
-  - Advisor: Anirach Mingkhwan - [@anirach](https://github.com/anirach) / [A. Mingkhwan](https://www.researchgate.net/profile/A-Mingkhwan)
+- Major: Information and Network Engineering (INE) - Engineering Bachelor's Degree (2022 - Now)
 - Department: Information Technology (IT) - [IT@FITM](https://sites.google.com/fitm.kmutnb.ac.th/fitmit)
 - Faculty: Industrial Technology and Management (Prachinburi campus) - [FITM](https://www.fitm.kmutnb.ac.th/) / [FITM Github](https://github.com/fitm-kmutnb)
 - University: King Mongkut's University of Technology North Bangkok - [KMUTNB](https://www.kmutnb.ac.th/) / [KMUTNB Github](https://github.com/enterprises/king-mongkuts-university)
