@@ -3,16 +3,16 @@
 # Profile
 
 - Name: Thitipong Tapianthong ([akikungz](https://github.com/akikungz))
-- Major: Information and Network Engineering (INE) - Engineering Bachelor's Degree (2022 - Now)
-- Department: Information Technology (IT) - [IT@FITM](https://sites.google.com/fitm.kmutnb.ac.th/fitmit)
-- Faculty: Industrial Technology and Management (Prachinburi campus) - [FITM](https://www.fitm.kmutnb.ac.th/) / [FITM Github](https://github.com/fitm-kmutnb)
+- Major: Information and Network Engineering (INE) - [INE@IT Facebook](https://www.facebook.com/INEKMUTNB)
+- Department: Information Technology (IT) - [IT@FITM](https://sites.google.com/fitm.kmutnb.ac.th/fitmit) / [IT@FITM Facebook](https://facebook.com/IT.KMUTNB)
+- Faculty: Industrial Technology and Management (Prachinburi campus) - [FITM](https://www.fitm.kmutnb.ac.th/) / [FITM Github](https://github.com/fitm-kmutnb) / [FITM Facebook](https://facebook.com/FITM.KMUTNB)
 - University: King Mongkut's University of Technology North Bangkok - [KMUTNB](https://www.kmutnb.ac.th/) / [KMUTNB Github](https://github.com/enterprises/king-mongkuts-university)
 
 ## My Tools (Update@2024/02/01)
 
 |-|Windows|Linux|MacOS|
 |:---:|---|---|---|
-|OS|Windows 11 and WSL2 Ubuntu|Ubuntu Desktop 23.10 (GNOME)|-|
+|OS|Windows 11 and WSL2 Ubuntu|Ubuntu Desktop 23.10 (GNOME)|Hackintosh Ventura (quit)|
 |Shell|Git Bash|Bash or Zsh|Zsh|
 
 - Editor:
