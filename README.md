@@ -20,8 +20,7 @@
   - [Github Codespaces](https://github.com/features/codespaces) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
   - [Nano](https://www.nano-editor.org) in terminal
 
-- Terminal:
-  - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) on Windows
+- Terminal: [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 
 - Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Arc (Trial)](https://arc.net)
 
@@ -32,10 +31,7 @@
 
 ## My SNS List
 
-|Social Network|Email|
-|:---:|---|
-|Facebook [@akikungz](https://facebook.com/akikungz)|akikungz@proton.me|
-|Twitter [@akikungz](https://twitter.com/akikungz)|akikungz@outlook.com|
-|Instagram [@akikungz](https://instagram.com/akikungz)|thitipong.t@email.kmutnb.ac.th|
-|Youtube [@akikungz](https://youtube.com/@akikungz)|-|
-|Last.fm [@akikungz](https://last.fm/user/akikungz)|-|
+- Facebook [@akikungz](https://facebook.com/akikungz)
+- Twitter [@akikungz](https://twitter.com/akikungz)
+- Instagram [@akikungz](https://instagram.com/akikungz)
+- Youtube [@akikungz](https://youtube.com/@akikungz)
