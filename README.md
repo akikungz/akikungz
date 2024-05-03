@@ -10,23 +10,20 @@
 
 ## My Tools (Update@2024/02/01)
 
-|-|Windows|Linux|MacOS|
-|:---:|---|---|---|
-|OS|Windows 11 and WSL2 Ubuntu|Ubuntu Desktop 23.10 (GNOME)|Hackintosh Ventura (quited)|
-|Shell|Git Bash|Bash|Zsh|
+|-|Windows|
+|:---:|---|
+|OS|Windows 11 and WSL2 Ubuntu|
+|Shell|Git Bash|
 
 - Editor:
   - [Visual Studio Code](https://code.visualstudio.com) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
   - [Github Codespaces](https://github.com/features/codespaces) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
-  - [Vim](https://www.vim.org) in terminal
   - [Nano](https://www.nano-editor.org) in terminal
 
 - Terminal:
   - [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701) on Windows
-  - [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/) on GNOME Desktop Environment
-  - [Hyper](https://hyper.is) on MacOS
 
-- Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Arc (Trial)](https://arc.net)
 
 ## My Favorite Programming Languages
 
