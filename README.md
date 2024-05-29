@@ -8,21 +8,21 @@
 - Faculty: Industrial Technology and Management (Prachinburi campus) - [FITM](https://www.fitm.kmutnb.ac.th/) / [FITM Github](https://github.com/fitm-kmutnb) / [FITM Facebook](https://facebook.com/FITM.KMUTNB)
 - University: King Mongkut's University of Technology North Bangkok - [KMUTNB](https://www.kmutnb.ac.th/) / [KMUTNB Github](https://github.com/enterprises/king-mongkuts-university)
 
-## My Tools (Update@2024/02/01)
+## My Tools (Update@2024/05/30)
 
 |-|Windows|
 |:---:|---|
-|OS|Windows 11 and WSL2 Ubuntu|
-|Shell|Git Bash|
+|OS|Windows 11 & WSL2 Ubuntu|
+|Shell|Git Bash & bash|
 
 - Editor:
   - [Visual Studio Code](https://code.visualstudio.com) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
   - [Github Codespaces](https://github.com/features/codespaces) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
-  - [Nano](https://www.nano-editor.org) in terminal
+  - [neovim](https://neovim.io/) with [lazyvim](https://www.lazyvim.org/)
 
 - Terminal: [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 
-- Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Arc (Trial)](https://arc.net)
+- Browser: [Microsoft Edge](https://www.microsoft.com/en-us/edge) / [Arc](https://arc.net)
 
 ## My Favorite Programming Languages
 
