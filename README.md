@@ -18,7 +18,6 @@
 - Editor:
   - [Visual Studio Code](https://code.visualstudio.com) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
   - [Github Codespaces](https://github.com/features/codespaces) with [Setup](https://gist.github.com/akikungz/15f63e658bf829607a09544de56a16c8) (Sync settings)
-  - [neovim](https://neovim.io/) with [lazyvim](https://www.lazyvim.org/)
 
 - Terminal: [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701)
 
